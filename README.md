@@ -30,13 +30,13 @@ This project investigates real-world **security and privacy vulnerabilities** in
 ## Sample Output
 
 ### Most Common IoT Breaches
-![IoT Security Breaches](visualizations/iot_breaches.png)
+![IoT Security Breaches](iot_breaches.png)
 
 ### Most Vulnerable Devices
-![Vulnerable Devices](visualizations/vulnerableiot_breaches.png)
+![Vulnerable Devices](vulnerableiot_breaches.png)
 
 ### Best Practices
-![Security Best Practices](visualizations/securityiot_breaches.png)
+![Security Best Practices](securityiot_breaches.png)
 
 ##  Folder Structure
 iot-security-analysis/
